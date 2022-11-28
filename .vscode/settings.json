@@ -1,0 +1,11 @@
+{
+    "solidity.compileUsingRemoteVersion": "latest",
+    "solidity.defaultCompiler": "localFile",
+    "solidity.linter": "solium",
+    "solidity.packageDefaultDependenciesContractsDirectory": "contracts",
+    "solidity.remappingsUnix": [
+    
+    ],
+    "solidity.packageDefaultDependenciesContractsDirectory": "",
+  "solidity.packageDefaultDependenciesDirectory": "node_modules"
+}
